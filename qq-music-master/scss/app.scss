@@ -1,0 +1,15 @@
+@import "var";
+@import "reset";
+@import "rec";
+@import "header";
+@import "navbar";
+@import "slider";
+@import "helpers";
+@import "rank";
+@import "search";
+@import "footer";
+@import "player";
+
+body {
+    background: $body-background;
+}
